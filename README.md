@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Fullstack projects**
 
-- 👨‍💻 All of my projects are available at [https://www.shivamtaneja.in/](https://www.shivamtaneja.in/)
+- 👨‍💻 All of my projects are available at [https://www.shivamtaneja.in/](https://www.shivamtaneja.com/)
 
 - 💬 Ask me about **JavaScript, React, Web Development and any general software development questions.**
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Taneja</h1>
-<h3 align="center">22-year-old B-Tech graduate from India who loves experimenting with cutting-edge technologies.</h3>
+<h3 align="center">23-year-old B-Tech graduate from India who loves experimenting with cutting-edge technologies.</h3>
 
 
 - 🔭 I’m currently working on [Building a publisher subscriber model based web app](https://github.com/shiivamtaneja/central-sync-hub)

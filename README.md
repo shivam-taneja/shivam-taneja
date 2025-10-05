@@ -1,5 +1,16 @@
-# 💫 About Me:
-🔭 I’m currently working on Web3 projects + AppDev<br>👯 I’m looking to collaborate on Full stack/App Dev/Web3 projects<br>🌱 I’m currently learning web3<br>⚡ Fun fact - when in doubt, cout...
+# 👋 Hey there
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codesbyshivam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivam-taneja) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/codesbyshivam) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codesbyshivam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:business.shivamtaneja@gmail.com) 
+> “I write bugs so well they call it a feature.”
+
+### I don’t like long intros, so I won’t waste your time:
+
+- Full-stack stack/app dev (~2 yrs experience: full-time + freelance + internships).
+- MERN & Spring Boot - if it compiles, I’ll find a way to break it.
+- Experienced with CI/CD, Jenkins, Kubernetes, and Rancher (because “it works on my machine” wasn’t scalable).
+- Microsoft Certified (AZ-900), collecting more certs soon.
+- Tech-agnostic, fast learner, occasional syntax crybaby.
+- Exploring Web3 & blockchain - decentralizing my confusion.
+- Playing with Generative AI because why not let robots help with my bugs.
+- Currently building [eznotify.dev](https://www.eznotify.dev/) - a simple, scalable way to send notifications across channels (email, SMS, WhatsApp, and more) with a developer-first SDK.
+
+### For more about me (and maybe more bugs - I mean features), check out [shivamtaneja.com](https://www.shivamtaneja.com/)

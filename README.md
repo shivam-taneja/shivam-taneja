@@ -6,7 +6,7 @@
 
 - Full-stack stack/app dev (~2 yrs experience: full-time + freelance + internships).
 - MERN & Spring Boot - if it compiles, I’ll find a way to break it.
-- Experienced with CI/CD, Jenkins, Kubernetes, and Rancher (because “it works on my machine” wasn’t scalable).
+- Experienced with Docker, CI/CD, Jenkins, Kubernetes, and Rancher (because “it works on my machine” wasn’t scalable).
 - Microsoft Certified (AZ-900), collecting more certs soon.
 - Tech-agnostic, fast learner, occasional syntax crybaby.
 - Exploring Web3 & blockchain - decentralizing my confusion.

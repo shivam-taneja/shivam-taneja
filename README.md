@@ -1,7 +1,5 @@
 # 👋 Hey, I'm Shivam
 
-> “I write bugs so well they call it a feature.”
-
 > "Breaking prod so you don't have to"
 
 - building **[GraphMyself](https://graphmyself.com)** - your fragmented digital life, finally talking to each other

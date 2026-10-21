@@ -4,7 +4,8 @@
 - building **[Bhondu Life](https://www.bhondugame.com/)** - make cringey choices, survive daily kalesh, and become Param Bhondu
 - building **[MyYearOnX](https://www.myyearonx.com/)** - Spotify Wrapped, but it's your X and it's not shy about it
 - building **[Farside](https://farside.shivamtaneja.com/)** - look away and the screen fades. please focus
-
+- building **[Yeet](https://yeet.shivamtaneja.com/)** - shitposting across platforms just got way easier.
+- 
 I love buying domains.
 
 - owning **[exactlywhatihavebeenlookingfor.com](https://exactlywhatihavebeenlookingfor.com/)** - oh my god, it really is
